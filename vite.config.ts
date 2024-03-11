@@ -12,6 +12,10 @@ export default defineConfig({
     host: 'localhost',
   },
 
+  define: {
+    __API__: JSON.stringify('http://localhost:3000'),
+  },
+
   preview: {
     port: 4300,
     host: 'localhost',
