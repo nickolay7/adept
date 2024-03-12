@@ -10,7 +10,7 @@ Run `npm i` to install app.
 
 ## Start the application
 
-Run `npm start` to start the development server.
+Run `npm run start:dev` to start the development server.
 
 ## Explore the project graph
 
